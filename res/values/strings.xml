@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, AnimationSetExampleActivity!</string>
     <string name="app_name">AnimationSetExample</string>
+    <string name="animate">Animate</string>
+    <string name="some_text">Some Text</string>
 
 </resources>
